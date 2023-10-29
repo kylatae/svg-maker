@@ -6,7 +6,7 @@ const colors = require('./lib/colors.js');
 qPrompt = [
   {
     type: 'input',
-    message: 'What 3 Characters do you want on your ',
+    message: 'What 3 Characters do you want on your logo',
     name: 'chars',
     validate: function(input){
       if (input.length > 0 && input.length < 4) return true
@@ -80,3 +80,5 @@ function init() {
 }
 
 init();
+
+module.exports = (qPrompt.chars.validate);
