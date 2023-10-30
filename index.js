@@ -80,5 +80,3 @@ function init() {
 }
 
 init();
-
-module.exports = (qPrompt.chars.validate);
