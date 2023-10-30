@@ -46,6 +46,8 @@
 
 ![Site Review](./lib/img/readme.png)
 
+![Debug](./lib/img/debug.png)
+
 [Video Example Link](./lib/vid/readme.mp4) 
 
 Repo Link:[https://www.github.com/kylatae/svg-maker/](https://www.github.com/kylatae/svg-maker)
